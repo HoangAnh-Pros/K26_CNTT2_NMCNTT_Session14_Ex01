@@ -1,0 +1,7 @@
+Bài 1 : Loại bỏ rủi ro lưu trữ cục bộ trong dự án nhóm
+*Phần 1: Phân tích
+--> 3 hậu quả của "thảm họa dữ liệu truyền thống".
+1.1 Không có dữa liệu sao lưu, chỉ có 1 bản duy nhất trên máy . không thể sửa sai khi mất hay xóa dữ liệu . Bạn nhấn ctrl + s làm file lưu hoàn toàn ko thể backup
+1.2 file chỉ có trên kho lưu trữ local có thể chia sẻ file nhưng mọi người ko thể xem ngay trong lúc chỉnh sửa
+1.3 và vì không có đồng bộ file làm việc nên Nam gửi nhiều file dẫn đến mọi người không biết phải làm gì
+*Phần 2: Sửa lỗi
